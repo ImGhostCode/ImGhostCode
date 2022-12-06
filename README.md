@@ -1,5 +1,6 @@
- <div align="center"><img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" height="200"></div>
-    <h2 align="center">I'm Ghost</h2>
+    <div align="center"><img src="https://media1.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" height="200"></div>
+ 
+    <h2 align="center">Im Ghost</h2>
     
     <p align="center">
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
